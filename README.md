@@ -97,4 +97,11 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
+I am a passionate data and technology professional with a strong interest in Artificial Intelligence. I continuously develop my skills and stay up to date with the latest trends and innovations.
+
+I enjoy working in cross-functional, diverse teams and use my technical expertise to solve real business problems. Collaboration and clear communication are central to my way of working, helping me create a positive, inclusive team environment.
+
+With over 8 years of experience in customer service, I am highly customer-focused and committed to exceeding expectations. My listening skills and transparent communication help me build strong, trust-based relationships with colleagues and clients.
+
+As a lifelong learner, I am dedicated to continuously improving my knowledge and best practices in the data field, ensuring I stay ahead in a rapidly evolving field.
 
